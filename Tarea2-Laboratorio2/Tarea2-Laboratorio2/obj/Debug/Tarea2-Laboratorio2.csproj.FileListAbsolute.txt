@@ -1,0 +1,7 @@
+D:\5to ciclo\aplicaciones multiplataforma\semana 2\Tarea2-Laboratorio2\Tarea2-Laboratorio2\bin\Debug\Tarea2-Laboratorio2.exe.config
+D:\5to ciclo\aplicaciones multiplataforma\semana 2\Tarea2-Laboratorio2\Tarea2-Laboratorio2\bin\Debug\Tarea2-Laboratorio2.exe
+D:\5to ciclo\aplicaciones multiplataforma\semana 2\Tarea2-Laboratorio2\Tarea2-Laboratorio2\bin\Debug\Tarea2-Laboratorio2.pdb
+D:\5to ciclo\aplicaciones multiplataforma\semana 2\Tarea2-Laboratorio2\Tarea2-Laboratorio2\obj\Debug\Tarea2-Laboratorio2.csprojAssemblyReference.cache
+D:\5to ciclo\aplicaciones multiplataforma\semana 2\Tarea2-Laboratorio2\Tarea2-Laboratorio2\obj\Debug\Tarea2-Laboratorio2.csproj.CoreCompileInputs.cache
+D:\5to ciclo\aplicaciones multiplataforma\semana 2\Tarea2-Laboratorio2\Tarea2-Laboratorio2\obj\Debug\Tarea2-Laboratorio2.exe
+D:\5to ciclo\aplicaciones multiplataforma\semana 2\Tarea2-Laboratorio2\Tarea2-Laboratorio2\obj\Debug\Tarea2-Laboratorio2.pdb
